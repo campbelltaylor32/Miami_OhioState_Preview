@@ -1,0 +1,7 @@
+"situation","plays","stuff_rate","success_allowed","epa_allowed","conversion_allowed","avg_yards_allowed","team"
+"Short Yardage Defense",30,0.2,0.733333333333333,0.543196709801529,0.7,2.36666666666667,"Miami"
+"vs Clock Killing Rush",60,0.166666666666667,0.45,0.327809981529475,0.45,4.96666666666667,"Miami"
+"Goal Line Rush Defense",4,0,0.75,0.783998657662125,0.5,4,"Miami"
+"Short Yardage Defense",36,0.388888888888889,0.5,-0.273051982982529,0.5,2.44444444444445,"Ohio State"
+"vs Clock Killing Rush",93,0.129032258064516,0.43010752688172,0.0951537994387529,0.43010752688172,4.56989247311828,"Ohio State"
+"Goal Line Rush Defense",5,0.6,0.2,-0.14547999204771,0.2,0.4,"Ohio State"

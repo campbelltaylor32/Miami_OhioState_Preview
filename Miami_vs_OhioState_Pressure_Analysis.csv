@@ -1,0 +1,5 @@
+"total_dropbacks","sacks_allowed","sack_rate_allowed","epa_sack_plays","epa_clean_plays","negative_pass_plays","negative_pass_rate","team","side","total_dropbacks_faced","sacks_generated","sack_rate_generated","negative_plays_forced","disruption_rate","epa_allowed_per_dropback"
+407,10,0.0245700245700246,-2.09710584026287,0.27200966518917,196,0.481572481572482,"Miami","Protection",NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,"Miami","Pass Rush",454,37,0.0814977973568282,281,0.618942731277533,-0.149623473393121
+382,11,0.0287958115183246,-1.9457376790319,0.457117972271831,160,0.418848167539267,"Ohio State","Protection",NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,"Ohio State","Pass Rush",344,30,0.0872093023255814,207,0.601744186046512,-0.114783700761903
