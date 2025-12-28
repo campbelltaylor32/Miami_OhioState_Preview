@@ -1,6 +1,6 @@
 ################################################################################
 #                    MIAMI vs OHIO STATE - CFP MATCHUP ANALYSIS                #
-#                   ENHANCED Statistical Edge & Vulnerability Finder           #
+#                    Statistical Edge & Vulnerability Finder           #
 ################################################################################
 
 library(cfbfastR)
@@ -11,7 +11,7 @@ library(gt)
 library(scales)
 
 ### Load in Key
-Sys.setenv(CFBD_API_KEY = "+7pFEyFsISDn4fKPCGPyI9K/7tylHLRlY1bqQbT9QFHE2t7h0e9J1k47PMOGWDll")
+Sys.setenv(CFBD_API_KEY = "blank")
 
 ### Configuration ###
 week_update <- 15
@@ -1653,8 +1653,4 @@ cat("Saved: Miami_vs_OhioState_LOS_Summary.csv\n")
 teams_full_data <- all_stats_rolling %>% filter(team %in% teams_to_compare)
 write.csv(teams_full_data, "Miami_vs_OhioState_Full_Season_Data.csv", row.names = FALSE)
 cat("Saved: Miami_vs_OhioState_Full_Season_Data.csv\n")
-
-cat("\n================================================================================\n")
-cat("                         ANALYSIS COMPLETE                                      \n")
-cat("================================================================================\n")
 
