@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
 Miami vs Ohio State - CFP Comprehensive Matchup Analysis
-Enhanced PDF Report with Percentile-Based Comparisons
-Minimal Commentary - Focus on Data Presentation
+PDF Report with Percentile-Based Comparisons
 """
 
 import pandas as pd
